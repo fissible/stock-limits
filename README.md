@@ -5,6 +5,7 @@ A stock share limit order generator. Input your current positions and based on m
 ```
 $ git clone git@github.com:ajthenewguy/stock-limits.git
 $ cd stock-limits
+$ composer install
 $ ln -s ./exe.php ~/stock-limits
 ```
 
