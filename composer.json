@@ -1,0 +1,15 @@
+{
+    "name": "ajthenewguy/stock-limits",
+    "description": "Generate limit orders for a price target range.",
+    "type": "project",
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "url": "https://github.com/ajthenewguy/php7-cli-app.git",
+            "type": "git"
+        }
+    ],
+    "require": {
+        "ajthenewguy/php-cli": "dev-main"
+    }
+}
